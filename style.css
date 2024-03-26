@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(https://img.freepik.com/free-vector/flat-design-mountain-landscape_23-2149161403.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.con {
+  margin: 100px;
+  width: 350px;
+  height: 500px;
+  border: 2px solid;
+  border-radius: 55px;
+}
+
+.carta {
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  height: 35px;
+  width: 250px;
+  /* border-radius: 30px; */
+  margin-top: 45px;
+  margin-left: 45px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.308);
+  /* -image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7DZetsngi9d8WK0nZazrWt6vch2qmHNJ7jw&usqp=CAU); */
+}
+
+.con h1 {
+  text-align: center;
+  font-size: 25px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.password {
+  margin-top: 15px;
+  margin-left: 220px;
+}
+
+button {
+  width: 250px;
+  height: 25px;
+  border-radius: 50px;
+  background-color: rgba(24, 23, 23, 0.445);
+  color: white;
+  margin-left: 50px;
+}
+
+.btn {
+  width: 65px;
+  gap: 35px;
+  margin-left: 235px;
+  margin-top: 15px;
+  background-color: rgba(0, 0, 0, 0.253);
+  color: white;
+}
+
+p {
+  margin-left: 50px;
+}
